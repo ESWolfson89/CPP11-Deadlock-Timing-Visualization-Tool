@@ -27,4 +27,4 @@ This project is licensed under GPLv3. See LICENSE.txt for more details.
 
 "C++11 deadlock Timing Visualization Tool" is based in part on the work of the FLTK project (http://www.fltk.org).
 
-Instructions on how to use this program will be posted shortly.
+Instructions on how to use this program are included in the report.
