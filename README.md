@@ -1,5 +1,3 @@
-Eric Wolfson
-
 Created for my Master's Project at UIC (Fall 2016-Spring 2017) 
 
 A C++11 deadlock timing visualization tool.
